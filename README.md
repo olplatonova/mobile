@@ -11,5 +11,9 @@ https://disk.yandex.ru/d/hLaqcN5cOY0d0g
 Отчеты о дефектав в приложении "Shopping-list"
 [Bugs.csv](https://github.com/user-attachments/files/23291754/Bugs.csv)
 
+Отчет о тестировании мобильного приложения "Shopping-list"
+[Отчет о тестировании мобильного приложения Shopping-list.docx](https://github.com/user-attachments/files/23292314/Shopping-list.docx)
+
+
 
 
