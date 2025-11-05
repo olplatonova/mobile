@@ -14,6 +14,9 @@ https://disk.yandex.ru/d/hLaqcN5cOY0d0g
 Отчет о тестировании мобильного приложения "Shopping-list"
 [Отчет о тестировании мобильного приложения Shopping-list.docx](https://github.com/user-attachments/files/23292314/Shopping-list.docx)
 
+Задачи по перехвату трафика с мобильного устройства:
+https://disk.yandex.ru/i/qNebmO3AkThg3A
+
 
 
 
